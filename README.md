@@ -1,10 +1,10 @@
-## Image Library
+# Image Library
 
-# Introduction
+## Introduction
 An image manipulation library made with and for C++ implementations.
 
-# Latest Version
+## Latest Version
 1.0
 
-# Author
+## Author
 M Shyam
